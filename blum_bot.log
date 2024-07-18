@@ -1,0 +1,18 @@
+
+21:09:41.83 | SUCCESS | Добавлена сессия +351931195561 @None PROXY : NONE
+21:10:05.06 | INFO | Найдено сессий: 1!
+21:10:05.06 | INFO | Проверяю сессии на валидность!
+21:10:06.80 | SUCCESS | Валидных сессий: 1; Невалидных: 0
+21:10:17.88 | INFO | main | Thread 0 | serioga | Start! | PROXY : None
+21:11:43.35 | INFO | main | Thread 0 | serioga | Have 24 diamonds!
+21:11:43.46 | INFO | game | Thread 0 | serioga | Start DROP GAME!
+21:12:29.76 | SUCCESS | game | Thread 0 | serioga | Claimed DROP GAME ! Claimed: 193
+21:13:20.00 | INFO | game | Thread 0 | serioga | Start DROP GAME!
+21:14:18.66 | SUCCESS | game | Thread 0 | serioga | Claimed DROP GAME ! Claimed: 209
+21:15:01.98 | INFO | game | Thread 0 | serioga | Start DROP GAME!
+21:15:52.56 | SUCCESS | game | Thread 0 | serioga | Claimed DROP GAME ! Claimed: 196
+21:16:25.78 | INFO | game | Thread 0 | serioga | Start DROP GAME!
+21:17:20.07 | SUCCESS | game | Thread 0 | serioga | Claimed DROP GAME ! Claimed: 205
+21:36:11.84 | INFO | Найдено сессий: 1!
+21:36:11.84 | INFO | Проверяю сессии на валидность!
+21:36:13.43 | SUCCESS | Валидных сессий: 1; Невалидных: 0
