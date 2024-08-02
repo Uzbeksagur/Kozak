@@ -23,3 +23,15 @@
 10:57:09.96 | INFO | main | Thread 0 | serioga | Start! | PROXY : None
 10:57:09.96 | INFO | main | Thread 1 | serioga1 | Start! | PROXY : None
 10:57:09.99 | INFO | main | Thread 2 | serioga2 | Start! | PROXY : None
+22:46:29.28 | INFO | Найдено сессий: 0!
+22:46:29.29 | INFO | Проверяю сессии на валидность!
+22:46:29.29 | SUCCESS | Валидных сессий: 0; Невалидных: 0
+22:48:57.05 | SUCCESS | Добавлена сессия +37367109205 @Lilioc PROXY : NONE
+22:49:30.20 | SUCCESS | Добавлена сессия +351966913389 @Uzbeksagur PROXY : NONE
+22:50:14.23 | SUCCESS | Добавлена сессия +351931195561 @None PROXY : NONE
+22:50:37.39 | INFO | Найдено сессий: 3!
+22:50:37.39 | INFO | Проверяю сессии на валидность!
+22:50:40.32 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+22:50:54.69 | INFO | main | Thread 1 | serioga1 | Start! | PROXY : None
+22:50:55.25 | INFO | main | Thread 2 | serioga2 | Start! | PROXY : None
+22:50:56.32 | INFO | main | Thread 0 | serioga | Start! | PROXY : None
