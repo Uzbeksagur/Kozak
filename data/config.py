@@ -19,7 +19,7 @@ WORKDIR = "sessions/"
 USE_PROXY = True # True/False
 
 # скок поинтов с игры
-POINTS = [180, 225] #[min, max]
+POINTS = [190, 240] #[min, max]
 
 # тратить алмазы
 SPEND_DIAMONDS = True # True/False

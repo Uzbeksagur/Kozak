@@ -4,12 +4,10 @@ from utils.blum import Blum
 from data.config import hello,USE_PROXY,USE_TG_BOT,BOT_TOKEN
 import asyncio
 import os
-from keep_alive import keep_alive
-keep_alive()
 
 async def main():
     print(hello)
-    action = 1
+    action = int(input('Выберите действие:\n1. Начать сбор монет\n2. Создать сессию\n>'))
     
     if not os.path.exists('sessions'):
         os.mkdir('sessions')

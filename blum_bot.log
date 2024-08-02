@@ -1,21 +1,19 @@
 
-21:09:41.83 | SUCCESS | Добавлена сессия +351931195561 @None PROXY : NONE
-21:10:05.06 | INFO | Найдено сессий: 1!
-21:10:05.06 | INFO | Проверяю сессии на валидность!
-21:10:06.80 | SUCCESS | Валидных сессий: 1; Невалидных: 0
-21:10:17.88 | INFO | main | Thread 0 | serioga | Start! | PROXY : None
-21:11:43.35 | INFO | main | Thread 0 | serioga | Have 24 diamonds!
-21:11:43.46 | INFO | game | Thread 0 | serioga | Start DROP GAME!
-21:12:29.76 | SUCCESS | game | Thread 0 | serioga | Claimed DROP GAME ! Claimed: 193
-21:13:20.00 | INFO | game | Thread 0 | serioga | Start DROP GAME!
-21:14:18.66 | SUCCESS | game | Thread 0 | serioga | Claimed DROP GAME ! Claimed: 209
-21:15:01.98 | INFO | game | Thread 0 | serioga | Start DROP GAME!
-21:15:52.56 | SUCCESS | game | Thread 0 | serioga | Claimed DROP GAME ! Claimed: 196
-21:16:25.78 | INFO | game | Thread 0 | serioga | Start DROP GAME!
-21:17:20.07 | SUCCESS | game | Thread 0 | serioga | Claimed DROP GAME ! Claimed: 205
-21:36:11.84 | INFO | Найдено сессий: 1!
-21:36:11.84 | INFO | Проверяю сессии на валидность!
-21:36:13.43 | SUCCESS | Валидных сессий: 1; Невалидных: 0
-10:09:21.65 | INFO | Найдено сессий: 1!
-10:09:23.08 | INFO | Проверяю сессии на валидность!
-10:09:24.80 | SUCCESS | Валидных сессий: 1; Невалидных: 0
+09:54:57.74 | SUCCESS | Добавлена сессия +351931195561 @None PROXY 45.127.248.127
+09:56:53.53 | INFO | Найдено сессий: 2!
+09:56:53.54 | INFO | Проверяю сессии на валидность!
+09:57:29.25 | INFO | Найдено сессий: 1!
+09:57:29.25 | INFO | Проверяю сессии на валидность!
+09:57:33.17 | SUCCESS | Валидных сессий: 1; Невалидных: 0
+09:57:50.26 | INFO | main | Thread 0 | serioga | Start! | PROXY : socks5://ndokmxty:il14ogsn9hoi@45.127.248.127:5128
+09:58:39.23 | SUCCESS | tasks | Thread 0 | serioga | Claimed TASK reward! Claimed: 200
+10:05:03.31 | SUCCESS | Добавлена сессия +351966913389 @Uzbeksagur PROXY 64.64.118.149
+10:05:46.96 | SUCCESS | Добавлена сессия +37367109205 @Lilioc PROXY 157.52.253.244
+10:06:19.47 | INFO | Найдено сессий: 3!
+10:06:19.47 | INFO | Проверяю сессии на валидность!
+10:06:27.65 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+10:06:37.93 | INFO | main | Thread 0 | serioga | Start! | PROXY : socks5://ndokmxty:il14ogsn9hoi@45.127.248.127:5128
+10:06:44.03 | INFO | main | Thread 2 | serioga2 | Start! | PROXY : socks5://ndokmxty:il14ogsn9hoi@157.52.253.244:6204
+10:06:45.47 | INFO | main | Thread 1 | serioga1 | Start! | PROXY : socks5://ndokmxty:il14ogsn9hoi@64.64.118.149:6732
+10:07:12.69 | SUCCESS | tasks | Thread 0 | serioga | Claimed TASK reward! Claimed: 333
+10:07:22.32 | SUCCESS | tasks | Thread 0 | serioga | Claimed TASK reward! Claimed: 200
