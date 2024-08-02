@@ -7,7 +7,7 @@ import os
 
 async def main():
     print(hello)
-    action = int(input('Выберите действие:\n1. Начать сбор монет\n2. Создать сессию\n>'))
+    action = 1
     
     if not os.path.exists('sessions'):
         os.mkdir('sessions')
