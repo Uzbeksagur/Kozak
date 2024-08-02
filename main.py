@@ -4,6 +4,8 @@ from utils.blum import Blum
 from data.config import hello,USE_PROXY,USE_TG_BOT,BOT_TOKEN
 import asyncio
 import os
+from keep_alive import keep_alive
+keep_alive()
 
 async def main():
     print(hello)

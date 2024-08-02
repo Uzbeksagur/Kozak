@@ -16,7 +16,7 @@ PROXY_TYPE = "socks5" # http/socks5
 WORKDIR = "sessions/"
 
 # использование прокси
-USE_PROXY = True # True/False
+USE_PROXY = False # True/False
 
 # скок поинтов с игры
 POINTS = [190, 240] #[min, max]

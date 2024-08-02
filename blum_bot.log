@@ -17,3 +17,9 @@
 10:06:45.47 | INFO | main | Thread 1 | serioga1 | Start! | PROXY : socks5://ndokmxty:il14ogsn9hoi@64.64.118.149:6732
 10:07:12.69 | SUCCESS | tasks | Thread 0 | serioga | Claimed TASK reward! Claimed: 333
 10:07:22.32 | SUCCESS | tasks | Thread 0 | serioga | Claimed TASK reward! Claimed: 200
+10:56:58.99 | INFO | Найдено сессий: 3!
+10:56:58.99 | INFO | Проверяю сессии на валидность!
+10:57:02.30 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+10:57:09.96 | INFO | main | Thread 0 | serioga | Start! | PROXY : None
+10:57:09.96 | INFO | main | Thread 1 | serioga1 | Start! | PROXY : None
+10:57:09.99 | INFO | main | Thread 2 | serioga2 | Start! | PROXY : None
