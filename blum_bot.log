@@ -35,3 +35,13 @@
 22:50:54.69 | INFO | main | Thread 1 | serioga1 | Start! | PROXY : None
 22:50:55.25 | INFO | main | Thread 2 | serioga2 | Start! | PROXY : None
 22:50:56.32 | INFO | main | Thread 0 | serioga | Start! | PROXY : None
+22:59:00.46 | INFO | Найдено сессий: 3!
+22:59:00.46 | INFO | Проверяю сессии на валидность!
+22:59:04.28 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+22:59:11.28 | INFO | main | Thread 0 | serioga | Start! | PROXY : None
+22:59:15.41 | INFO | main | Thread 2 | serioga2 | Start! | PROXY : None
+22:59:17.29 | INFO | main | Thread 1 | serioga1 | Start! | PROXY : None
+23:00:12.24 | INFO | main | Thread 1 | serioga1 | Have 0 diamonds!
+23:00:12.24 | INFO | main | Thread 1 | serioga1 | Sleep 15616 seconds!
+23:00:24.29 | INFO | main | Thread 0 | serioga | Have 0 diamonds!
+23:00:24.29 | INFO | main | Thread 0 | serioga | Sleep 8088 seconds!
